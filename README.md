@@ -1,7 +1,7 @@
 # HR Candidate Screening Multi-Agent System
 
 A production-grade, multi-agent HR screening pipeline built with **LangGraph**.  
-Automates end-to-end candidate evaluation — from raw resume + job description to a structured screening report with a hire/reject recommendation.
+Automates end-to-end candidate evaluation -  from raw resume + job description to a structured screening report with a hire/reject recommendation.
 
 ---
 
